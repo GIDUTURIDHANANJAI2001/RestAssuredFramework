@@ -1,10 +1,12 @@
+package postinputpojo1;
+
 import java.*;
 
 
 
 public class postInputPojo {
     String title;
-    int price;
+    Double price;
     String description;
     String image;
     String catgorey;
@@ -17,11 +19,11 @@ public class postInputPojo {
         this.title = title;
     }
 
-    public int getPrice() {
+    public Double getPrice() {
         return price;
     }
 
-    public void setPrice(int price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 
@@ -41,9 +43,6 @@ public class postInputPojo {
         this.image = image;
     }
 
-    public String getCatgorey() {
-        return catgorey;
-    }
 
     public void setCatgorey(String catgorey) {
         this.catgorey = catgorey;
