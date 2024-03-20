@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.509">
+    <testcase classname="we are sending one request based on values and get result of that json" name="fetching details" time="4.151">
+        <system-out><![CDATA[Given to set the uri of that site in nt thai................................passed
+When set the values as 13.5 and "lorem ipsum set"...........................passed
+Then validate the id is present or not in nt thai...........................passed
+]]></system-out>
+    </testcase>
+</testsuite>

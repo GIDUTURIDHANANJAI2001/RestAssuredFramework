@@ -1,0 +1,1754 @@
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:06:16 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=4t7tJq4%2BgNXRmaJ%2B4tt2JUwDRyBlXhF%2BnGlvayOrEq%2FkJcry8lMyJMa01tdRw12SqX7aiAuMhEtxCjZFzWAKlMkWlPD5AXMkpVsRQVQtydu6dbnHgQefdSvJ%2FZTac4azVjsQ"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8665187e7a538606-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:13:34 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=oTYwV8qqaohH16W8cHKbHO7i9mnZQZZKQnz1GuiQz%2FOKJIjx92Rx27fbgh2YYb10NVZw29S4GwKplJ4S91WeG5BXcNMsG58k1ABc%2B4LZaJpVOltW2L7%2Bs7Y1ukPZzpfGl5hr"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8665232e5e3585d2-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:16:30 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=RAC4yrnOSRZKBvMA3a285thZ3sTSeTwGR0tjZVs9XnRTswffTmhgod271HGemgIN9j3qZJgfUCDkjn55l8%2FN2HGp0fB1iAsjR72DJdLE%2BTd%2FiVc2HQ5WLQe8MFFFGXy%2Bklar"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8665277cee60f34f-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:18:31 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=bqOckctRgm1%2BHbUGrGNDk%2BmYhKYubn%2BA%2FZB7SCfN1Q5%2FSKMCmp5UNKJXv0amI1GhtHJ%2BEht%2FHwfkMB6eTup6G6n0ktv5xIQE1OquRDAH6hCfuWhbqoYMbdvch58ygvcYqdQ%2F"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 86652a72b8651bd0-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:20:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=sBG4JdcD%2FC%2B3vkKIdoD%2BVF8AAqA4Kt0SSOzVCw%2Bb6wevuWd%2FCKcA104kdNyA8V%2Bm559vTKKAmZeTkgIvHHdc2a4WjozGHpRSAkJ3vk3vh1Kn9Tf1ql5EgA4GEsokGAx67fvU"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 86652ce7bc8cf317-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:21:44 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ApXHn%2Bs3SnsoY4%2B6cJqh8AynfH2%2F9n0JcvynH49FB04uDye7BJDV6tQj3142CwV2tnkhSxL1LjhLTMv85J9f%2FQ3wd4kjVxKZ6ALZXxbxOEjMflSHHOayxcNBwVNzOtliKChQ"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 86652f24a821f2a6-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:23:56 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UUnugHAWv1qLP9onX5d4LVHZI9jkXt%2B%2FHTXimqB3TnZl%2Bh4b7XY7nM%2FbQ2aTqDYxadUTGcZybAtOi6jmIpqH0HZRfYU5EXwyUzAMMMDcy%2FBLmxxEqttgyeLqsqnfF%2BoC2%2B1q"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8665325e5f8ef337-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 12:32:14 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=TvhBZuv%2FkRrMXR204BD84AL6JqiJaJQ%2Bk7Eg%2FONJGeynRt%2FuY05KrsE%2BePVaOt46es4El91eHZXjnut%2FBxiAlYYobN%2BL5puSiyuAP8A4d1RCltWP2wKcZchj68z9QUCO6MgR"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 86653e87ca641bc7-BOM
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 13:03:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=JOkLpaij8L5zveiaaNxNHwEokwJwf8Suzszshvhb5x%2F4lQZHIThvjuxTZIh%2BJZ4DacSoOR0mqMB%2FU0tWggwbCLlY3UMT1pKMdrcvi90%2B1XWQnmhj0lkS%2FQNZ8S4r%2BAaAKnpd"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 86656be0ec0549a8-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2024 15:35:27 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=E%2FaN%2BBD86aRYxGdmDgx%2F0ITzWvT9%2BEduodDaeDJRml0Nddzd2IUOBpOn3g3lJmtfWEm5OemzRNq9FV8KQ0XpmcuwvWFWD%2BDCCm%2Bh5wd1uL0q0CKGk1F3%2FXIytF0LBgYj1spo"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 86664aec6d1c4685-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 05:19:35 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ALCbCmMoKFID0OoTL0qWQc9yudMQYJQ7GvPoUpfEgeUq%2FNYUT%2B4sdNYETV0tDPOt8q0%2FKTVoLVB0Ly%2BQM4Tqp0twTc574VAwcS4Ry8vKp5DLYYFMhcP4gteMXB5%2FtXlCS%2FSa"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866b0222c8c7492f-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 06:02:29 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=dh3bsUjdGBfzu7zRB6VoQCUdlPeXa9%2BpZko%2Fyz2Cps9m5g7xubVodsVjxXCjavbQ8BJ03v6mtpmvDNVMtaCqciW4F1Iqq%2BJZT3MkHmpSK5NAmpx%2F0Jk41GMSKp7AaBxccGbo"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866b40f8e8cd4a29-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 06:02:57 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=i9QNXnGs5xKtdb84SkFOZrGV8R5p1TNo4Rlil%2BpZEkRJBAXyhFgyI8km3sOy3wXbcECQX07oGYh%2FGHi%2FjuTuJSwbzZ2QQUVsrdSKEtGiCAqqnpFx2qzq9rQNzm1G%2F9wYo1kg"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866b41acda336015-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 06:04:49 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IwEFbZJIlLd4ComBcfygahlz9nfodBxhuKkzC7kwJgXhuCrpjzOitck%2FvCYDChCrQR1yZvPyI%2BQvkttJq%2F0SS73RHQrKKDIEhANskIIo9D1xIlBJUddWhPnXwwXEz%2BXOgsgx"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866b4467588a4900-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 06:58:16 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UgTkGiNhAV%2BaW2hSIK8OV%2Fbw7R0%2BEkEP5rVXF%2FJgaOfdrG7vZAPIGn52pwFcA4tmMJm9oCXoK7UETM8u8uPBn2sMxqFvtqSl4GUd8KiZsgi4jYxScB%2FVXq2Yf6TOM5f5ttVp"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866b92b3aa135ff3-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 07:42:04 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ELgiRRqOsDAB6y%2FtEA3vm7URF4xpCgGob3waZKze28ksOaHVcoZSQ2xoJxuvz2orSGVzg8UqnRGjY3ERqaBWfRug9dKmegnBLjz6rcUVVJ6Fes1oPvXLrzB%2FyTQ6s%2BWsmtIS"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866bd2d849d35ff1-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 07:47:33 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=cfwJ9w2RxMu9jrGdTMnvLc8DcqtGD0sDNGcV0MX4PcI7IBrhPj6t2RUxA4qFS1jwJBF1YAvDwHIZxqmwCZjKf6QU5teKLZ0mX53S6q16JlsSfDnb%2BMlBkshAZ2DqACYnCq%2FE"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866bdae55a306004-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+title
+HTTP/1.1 400 Bad Request
+Date: Tue, 19 Mar 2024 07:49:53 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none'
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=s9FooItNdWuUQ208X6WQRN5ekYgiYR8Sl%2FRN4iTTiAVnVHlcIeluI5DbqllBpOjlO7BojZD80k9TrKvB77cVfhja6S8Bp8Oyl%2FaKCAELu2KzaK%2F73NrhPKlOx287s%2BdcWrhV"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866bde4d7d3a494b-SIN
+alt-svc: h3=":443"; ma=86400
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Error</title>
+  </head>
+  <body>
+    <pre>Bad Request</pre>
+  </body>
+</html>
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 07:57:20 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ueNOAaHtjKa1AAHY1EMi57WGOPomMINh2y7qV6K5FLcVpVAaP7Ml8Kbh8o5aCE0IF0Ctk8ofWIZ1CwvkiIuScXq7H630BUCXnPlfqWT6%2Blo87NnZR%2Bmv%2FMToAJ3QhLfyqlCH"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866be933cd2c6035-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "io.restassured.internal.RequestSpecificationImpl@985696"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 08:03:03 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"4b-j7qAvP8qrO8gTNHkRYAGmNJWU9M"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=pGfyVU%2FMTH0YECPaXGmGPjM003zcMCZxxfPhPKTZxLQfFEI4IwXHQqsn4Ly2Z%2B0l8EMP5Bzb6nKt2d30CamogEumfyZXu%2B2zojZXpfzhFMcpNlIzXIHkTOtYH9pm52gvmuU9"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866bf1976fe83c13-BLR
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "io.restassured.internal.RequestSpecificationImpl@985696"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 08:04:30 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=LnsXoVuCWr7vTFwK30C6RWcgE8b2aD4mR%2FgwjdIKqtUz6IqlfDmfv3FI%2B%2B281K4pOhGD1UorPM9aveRY4BzdLLyLaBJcZo%2F4URwe8DCBSLYbNDi4iXEXFaCTySUuiNLD8CU8"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866bf3b4986783f3-BLR
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 08:06:26 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=vatD3e6wdoscluHk0NWS6oH4eLZ0AIOsSxZdhwcCRknYiSHXkCD0FMsdoFjXQOKfJxQGavSmmZg%2F8%2FrpWmVgYVVmkiCTtnB4bRtFrIEEDKvvl68LCRbwxpw5D6akOYCP4nfn"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866bf68bfee73c00-BLR
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 09:29:59 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=A6n%2Fsd2oMqhVr4xXQ5vpSE0Itnp23IHAJx88FACgGU7CCKVJ5AkiEiSifuHbEunI%2FLyybzH9xxmJseAdC3YIfnSxdMzSxnG4eQdpMKw8V%2B5XY5HHTkmfO8tu8pxM3Jy7JQWP"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866c70f0ed56604c-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 09:57:54 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5HHdShJisenySktbkQpMve37HNG%2FtK8g%2FWX0EImtuhxvSHg1k2gMCcbIpadTUEbASiHxlRBcTSO7kEGMXgB%2F9lgu8OfsJRLtifHCq91czmSYkYZOyEDE4mPm6%2FQY93e1Y8qH"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866c99d28ae35fda-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 09:58:28 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=0ke0q1HHX6zVW%2FPByubh2r6tI819tAle6XVgd5cMV13PjqPIuXJNqRipnqj859TyPjNzOTlTb8bld66TDxsdUjbA7p3W9ceKHXyRfl8spfvDAFQC2ZL2o7KwbVHg0NcDjsBb"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866c9aa949be6044-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:01:17 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KvqlV44qbSLUvlZi7ixYvQkPD%2B5ByLNJbseNoYI5qlaRgiW6zS1dany27Tj2qPs%2FdoIYvIsgmDkThSnsJVBhFBWyC0EKRtHSHuvc36sNDE1ISHkbqBRasF%2FoFipYIxT7UgLq"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866c9ecba9084625-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:10:18 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=BzV%2FB8yTJ%2F2NIbMuDFil1njbABrEsxBQSG0nshHYCcDBqIjoMbSDzMS3fgKF8WPY%2FNJL94nuHXyc97VSkESBW%2FwLrud06wulTHGqExJNGVAWua2kn4ZvRr6SYu8PwcSNl55n"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cabfbac7e48ee-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:11:08 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=XuW6mIT%2FuFw2YIdqOBNiI%2Fk8B3ObRKHU5pyUG3gpLdmp%2BFwyPuSFZwAwzL9QBJ64PcGibj9vAm31r2s2lD8mhGi8DMNf25PpQNXwZ2HuqWLsgmtVCkdEYO784qL2YUB2bqSo"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cad382983602c-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:12:13 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=tY7yh9qCcRfzAPvdsAGmCC7%2FdAC3pJuvIRjRD8CikqOfEI%2FZ1v1sYd6H2z5GGwla%2FQQx7dmlbC6L2%2BDUL%2FeVx%2BQ6EZWOK%2Blp%2FFvW6NNpMiRLG0CQK4NIVojU%2BFGc05rVj%2F59"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866caecdad245ff9-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:17:50 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=wFl2j%2F0MVtMXObn%2BamRyXjFABFJ2rdhoRMM5dmys9%2BXaU1diraw6zyXrHMM3wvZ54EXEkTbs%2FCsTgkQaGPm8mZbhm07gsUfycvbQpAH%2B3mreTyGiU3aReqmkoZCMVaYsf1Ls"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cb7097c2e4963-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:18:22 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=XKQVmqWPXLlPmDb7%2BZ9eYovRVStfJvgKqu57bDWhZGQ5ZpkzHg00hT1LAnr4bt5yP8XULQCfjk0DFa6yCxZ4hyDhzAgeyCpe7BfxrfemllSKTS4UIZZa3EMBT9yUlHa7yGiO"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cb7d08da2604c-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:28:39 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2FrBUASgZmNx7Ly8Z21qQZmx50KxGC0lw21c9qoSP%2Fw0S77d8nIysuurvLj8jT%2Fnoff1dtc2pgkDs%2BXqxZVdCBweDgWQEP9tm%2FsBmQL8wZvpKg5RjJkWpnprVR%2FBaj9oYtKWd"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cc6e0afdef56f-BOM
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:35:39 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ku0%2BhtB4GvMhuPqKut5uUpJ7GPBcbc6AFKa5QZc4QGB6CsBINA1myNuCE2QsB4arb97NU0T7QaJmXHNio3z9nQA5celg88YJDltVZB3daoF1AoXENfpGkTm2ivkxrU7cLb5X"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cd121aaa08609-BOM
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:44:24 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=O3AjJVSjNNSFBNimnFNKxeuvFHZjA39xODbYZMkKDlEir6iRqamSvIXT4Wmps%2Bget8%2FYc4gmZQcrteuvdWAZdC7ZtNQgPeWY69JAjSZaRC7%2BK4eumCGtBxn5OclpIMckhdpB"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cddf47b194a77-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:45:07 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ghReHbLFO0DG3hptlSZu4k%2FEcbmajJqetni8Jf3e31wvT0jqJKxogUFqp9Y8%2FPg68mGK4EK9ZhjAi3nJ4dNyOi0CtwBwVSgnMZTPmqi5ghxy1pLA8hgeCVSLDVee1cDd4vvy"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866cdefe7846464f-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 10:49:57 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UzoPKo%2F6ZrdN%2BTJ1XHHvhFTd7thWx%2FBaHatbrENS5gzCzP%2FYxz2d8IcYGDFb9NSMYCmfFq0EdNYXpYTL4Kjxg8o%2B%2BYJ65vGvLH46aTsoEztPn4pUuaK4WJ4Tf3XvMqml4gEn"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866ce6140ff885ba-BOM
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 12:09:47 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Mgq%2BXnL18HCIv6gVYGutZ03b%2FfBBfAHZsaCbvOAg5sfuisLb6c6nYsb4gYTwD9dFRU%2BjOPYWUNMROoiBYrofV9jKyA%2FVhcuulrhB3iV721nquiB%2FFXM%2B9%2FRb4XLxi4YMqvBn"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866d5b02b992f4a4-BOM
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 12:11:44 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=53x3ogSlJ46tH8yVyoYPk9pcw9o3c8EheMFePY27qmcEQFE25w215RtNkvVN0K70XCwUv4BBE2zDxp3xY3ajFAqbntt%2BTzNuumSu5BDZYTD2ceOJE%2BGgoxDwg7Q1c913puaS"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866d5de09c411be5-BOM
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2024 12:28:07 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=9zY7iyNX7YrcDcZJ98otkzfa%2FqC7HbV2OyQv2XZjYpqP%2FCjDrGwjERgUSRSuAvcHQ6Zz5004kfEL7f658i3QodFfOJO%2F305uuYmna%2BZnYQ0r777CoLuQV7v3n3E07mkXDQ9A"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 866d75de289c3c0d-BLR
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 06:43:21 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5rfIfzC7zeBsclZ9AzjxPBq2jkzEzUlLcCnXVZfAYUTmyrw7kFi%2B0fTLm%2BfRlVMO%2BemSREoGfd8%2BUbdLv0XBXGIgpV3uxgSaclDOkzCefX6Gej2%2FRu%2BxcQutJkSPunKQYLrZ"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673ba3bad684745-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 06:46:29 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"6d-73OqmSwl95rseyRlHPLH/+sBd8g"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=35Om7sF0SjqdY11w4oUpLoqqDKubo2G1HfCxs1F7wGo6sFXKFSICW9IhAy9uOKXDZmEhOWMB7sJlRXfp8Arlxlbfffm%2FQfaBBbLsappsG9dr1TbcTERx%2B0%2BS5wK1OBaLX532"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673bed0fe4b48fa-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 06:47:50 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=OG68GYlNwDwyugOoEBFAO8gQdy1fCqBYLbVtHfSPli0I2vqcDJxmG24eJhcFLTyVM9PLEUbmZccpsIxELMHwCLSjX0rySarIfaaYMDsuLGyyR553gMUK1F3PLzJZ2BC6yLcM"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673c0c58db84ac0-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 06:48:53 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"40-HwH3IIlMVwXTcl1U2828qSCM2AI"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=CuAZi2%2FDn7PclW7dlsXg%2BIHgJDhQ%2FFppS%2Be8%2B26lHl1P4gKKlI9Y5lQCnpAKdTYcZFseYP%2FDcJXnKazd7m6SDj%2FhYP%2BbZ%2B4v6p%2BHlx5ubyPaoOJQqZ%2FyEbDLCh1mE%2BJykOrn"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673c2501c0646f7-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 06:50:38 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"6d-73OqmSwl95rseyRlHPLH/+sBd8g"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=l5r2WCM1J7UAJDpmAfn4V2ODEgV5aod4IhgACkA3j2gwRlAYFTd2omc7eFYpNtZvYyWRZZKuiK9KCalwA9Fb55%2FAGkK7VEFcfEP8gOF2pyH9IpR9RIk3TEO6grsMNoyE%2B5vx"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673c4e06ccc48d6-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 06:51:52 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 9
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"9-YMkvF/wJa2P/mVmfWcyTuUjssI8"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Pk0hapr%2FdbMdYTlYQyeH%2F%2F7JTFkQRTf%2FPSVBiS1%2BtSMZ74E4a2YTmSpfRRu3Uj3X9RpbpciPhsU69SA4m%2FIm%2F1U%2FVZ2cMaDdKj8BDHzV7s7XlJcZ4LQUqON0Se2KfqIQ6y7T"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673c6b4aac69e3b-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 06:54:42 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"6d-73OqmSwl95rseyRlHPLH/+sBd8g"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=DdseBCM3z7oJeuG0mPoR0T%2B53yc6PlIKrqSw8ryp3aCETy7wXsvhBP3XykbsGTTjZ8KD0inJ8M2y%2BTcA3RKKRhn2ZXFYV2X9nNBfvsl6mjGAF3OL0iDEM9%2FYgyap3mRrN6S2"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673cad93e876014-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 07:04:21 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"6d-73OqmSwl95rseyRlHPLH/+sBd8g"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Je%2FO7k0Qo8scl%2B0Sxk8ahA8bOV3NvyL8neEzJmIfHWP7kqBE0bYdAWe6jAgo9tklOUpSYZ%2Ba176qDBzBtP81Ii%2Fw01zlz2qNl5dIk1Hdg%2FlGtjiJ3Q7f7MXCAV%2Fass8JaEeU"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673d8fa6dc14acc-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 07:06:12 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"6d-73OqmSwl95rseyRlHPLH/+sBd8g"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UPlD3SC9KQgyuWNSKJz8LwrrWuti9K3vWw5f50H97KnAoPZUVwGeR8S%2Fs18V%2FROvL33PCABnNlqx7MCOd4lbgBZ2hwVFisE0rEaFy2Ma8KqMIRvO89CNgwwv%2B%2BL8sQ8zkzl4"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673dbafb8094957-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc"
+}
+Request method:	POST
+Request URI:	https://fakestoreapi.com/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc",
+    "catgorey": "electronic"
+}
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2024 07:09:17 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Etag: W/"6d-73OqmSwl95rseyRlHPLH/+sBd8g"
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=kXtVVOTUN81PSuWvknIZClp4Hzpza5npuveAg0vFTpb0VJniN9y3cvi5kUA5P%2FI%2FAInFyBwrbFsSIOszX2QCQmknUMUIv0XqdCKLTJhlI%2B%2FtwQlX6MRLdCZaqpT5w4dc8lgS"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8673e037fcc46009-SIN
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": 21,
+    "title": "test product",
+    "price": 13.5,
+    "description": "lorem ipsum set",
+    "image": "https://i.pravatar.cc"
+}
